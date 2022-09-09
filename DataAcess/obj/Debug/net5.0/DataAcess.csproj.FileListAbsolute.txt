@@ -1,0 +1,15 @@
+D:\demo-prn\IndruinoProject\DataAcess\bin\Debug\net5.0\DataAcess.deps.json
+D:\demo-prn\IndruinoProject\DataAcess\bin\Debug\net5.0\DataAcess.dll
+D:\demo-prn\IndruinoProject\DataAcess\bin\Debug\net5.0\DataAcess.pdb
+D:\demo-prn\IndruinoProject\DataAcess\bin\Debug\net5.0\BusinessLayer.dll
+D:\demo-prn\IndruinoProject\DataAcess\bin\Debug\net5.0\BusinessLayer.pdb
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.csproj.CopyComplete
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.dll
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\refint\DataAcess.dll
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\DataAcess.pdb
+D:\demo-prn\IndruinoProject\DataAcess\obj\Debug\net5.0\ref\DataAcess.dll
